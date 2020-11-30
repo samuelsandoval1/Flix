@@ -15,6 +15,7 @@
 		339D27BD25732CED007C034B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 339D27BB25732CED007C034B /* LaunchScreen.storyboard */; };
 		339D27C825732CEE007C034B /* FlixTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339D27C725732CEE007C034B /* FlixTests.swift */; };
 		339D27D325732CEE007C034B /* FlixUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339D27D225732CEE007C034B /* FlixUITests.swift */; };
+		33E8F04F25749F3300A4F843 /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E8F04E25749F3300A4F843 /* MovieGridViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		339D27CE25732CEE007C034B /* FlixUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlixUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		339D27D225732CEE007C034B /* FlixUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlixUITests.swift; sourceTree = "<group>"; };
 		339D27D425732CEE007C034B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		33E8F04E25749F3300A4F843 /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				339D27B225732CE5007C034B /* SceneDelegate.swift */,
 				339D27B425732CE5007C034B /* ViewController.swift */,
 				339D27B625732CE5007C034B /* Main.storyboard */,
+				33E8F04E25749F3300A4F843 /* MovieGridViewController.swift */,
 				339D27B925732CED007C034B /* Assets.xcassets */,
 				339D27BB25732CED007C034B /* LaunchScreen.storyboard */,
 				339D27BE25732CED007C034B /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				339D27B525732CE5007C034B /* ViewController.swift in Sources */,
+				33E8F04F25749F3300A4F843 /* MovieGridViewController.swift in Sources */,
 				339D27B125732CE5007C034B /* AppDelegate.swift in Sources */,
 				339D27B325732CE5007C034B /* SceneDelegate.swift in Sources */,
 			);
